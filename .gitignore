@@ -3,8 +3,20 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# OS generated files #
+.Trashes
+ehthumbs.db
+Thumbs.db
+
 # C extensions
 *.so
+*.o
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
 
 # Distribution / packaging
 .Python
